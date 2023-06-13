@@ -1,18 +1,26 @@
 # Chat
 Application was build during Tinkoff Fintech course
-# Topics covered:
 
 # Tech stack:
-Interface - UIKit
+
+UIKit
 
 Reactive programming - Combine
 
-Local data storage - Core Data
+Local data storage - FileManager, CoreData, UserDefaults
 
-Network -
+Network - URLSession, SSE
 
-Animations - 
+Multithreading - GCD, NSOperation
+
+Animations -  CoreAnimation
+
+Architecture - SOA, MVVM
 
 UI and unit tests - XCTest
+
+CI/CD - Fastlane, GitHub Actions
+
+SwiftLint
 
 # CI/CD
