@@ -27,7 +27,6 @@ SwiftLint
 <img src="https://github.com/KurbatovIOS/Chat/assets/105456398/7d878278-be93-4966-a4ee-c988e7c545b3" width="200" />
 <img src="https://github.com/KurbatovIOS/Chat/assets/105456398/19b0539c-d5fd-4fdb-881b-79f8d7fd9612" width="200" />
 
-
 <img src="https://github.com/KurbatovIOS/Chat/assets/105456398/a087835c-c64c-4495-b845-66475e01376c" width="200" />
 <img src="https://github.com/KurbatovIOS/Chat/assets/105456398/2b2d1929-d889-4f6e-a8bf-5b9773832560" width="200" />
 
